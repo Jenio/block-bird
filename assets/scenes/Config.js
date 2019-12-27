@@ -1,0 +1,9 @@
+module.exports={
+    GP:null,
+    score:0,
+    highestScore:0,
+    gold:0,
+    playerSpeed:300,
+    gameStop:false,
+    gameSuccess:false,
+}
